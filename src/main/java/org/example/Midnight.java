@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class Midnight {
     public static void main(String[] args) {
-//        String str ="";
+        String str ="";
 //        StringBuffer StringBuffer = new StringBuffer();
 //        StringBuilder StringBuilder = new StringBuilder();
 //        String a = "Ada";
