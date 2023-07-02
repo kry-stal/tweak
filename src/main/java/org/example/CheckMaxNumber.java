@@ -38,8 +38,13 @@ public class CheckMaxNumber {
         } else {
             System.out.println("zero");
         }
+
+
+
+
+        }
     }
-}
+
 
 
 
