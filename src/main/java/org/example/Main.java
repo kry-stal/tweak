@@ -4,11 +4,11 @@ import java.util.Scanner;
 
 
 public class Main {
-    public static void main(String[] args) {
-         myCall = new Uppity.Food();
-    }
+    //  public static void main(String[] args) {
+    // myCall = new Uppity.Food();
+    //   }
 
-    }
+//}
 
 //    public static int sumNumbers() {
 //        Scanner scanner = new Scanner(System.in);
@@ -22,9 +22,8 @@ public class Main {
 //    }
 
 
-
 //    public static void main(String[] args) {
 //        int result = sumNumbers();
 //        System.out.println(result);
-    }
+    //  }
 }
