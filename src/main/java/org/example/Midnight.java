@@ -24,6 +24,7 @@ public class Midnight {
             System.out.println(dogs.get(i));
         }
         System.out.println(dogs);
+
         String dt = new String("boy");
         dt = "girl";//new String("girl");
         int x = 8;
